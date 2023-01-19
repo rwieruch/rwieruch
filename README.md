@@ -5,4 +5,4 @@
 
 Freelance JavaScript & TypeScript Web Developer
 
-[![rwieruch's github stats](https://github-readme-stats.vercel.app/api?username=rwieruch&show_icons=true)](https://github.com/rwieruch/)
+[![rwieruch's github stats](https://github-readme-stats.vercel.app/api?username=rwieruch&show_icons=true&theme=radical)](https://github.com/rwieruch/)
