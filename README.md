@@ -8,4 +8,4 @@
 
 ## Github Profile
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rwieruch&count_private=true&theme=cobalt&show_icons=true"/>
+[![rwieruch's github stats](https://github-readme-stats.vercel.app/api?username=rwieruch&show_icons=true&theme=radical&count_private=true)](https://github.com/rwieruch/)
