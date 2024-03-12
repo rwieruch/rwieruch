@@ -3,7 +3,7 @@
 
 - 👋 Hello, I'm Robin, a freelance web developer
 - 👀 I'm working with companies on their products
-- 🌱 I'm 24/7 working with @reactjs, @nextjs, @typescript, @nodejs, @mysql
+- 🌱 I'm 24/7 working with @reactjs, @nextjs, @typescript, @nodejs, @mysql, @postgresql, @sqlite
 - 📫 How to reach me ... hello@rwieruch.com
 
 ## Github Profile
