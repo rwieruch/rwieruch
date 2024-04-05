@@ -8,4 +8,4 @@
 
 ## Github Profile
 
-[![rwieruch's github stats](https://github-readme-stats.vercel.app/api?username=rwieruch&show_icons=true&theme=radical&count_private=true)](https://github.com/rwieruch/)
+[![rwieruch's github stats](https://github-readme-stats.vercel.app/api?username=rwieruch&show_icons=true&theme=transparent&count_private=true)](https://github.com/rwieruch/)
