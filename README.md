@@ -3,5 +3,5 @@
 
 - 👋 Hello, I'm Robin, a freelance software engineer
 - 👀 I'm working with companies on their products
-- 🌱 My passions are @reactjs, @nextjs, @typescript, @nodejs
+- 🌱 My passions are @reactjs, @nextjs, @typescript in front-end/full-stack environments
 - 📫 How to reach me ... hello@rwieruch.com
